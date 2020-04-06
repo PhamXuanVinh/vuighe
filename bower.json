@@ -1,0 +1,21 @@
+{
+  "name": "vuighe",
+  "homepage": "https://github.com/PhamXuanVinh/vuighe",
+  "authors": [
+    "Pham Xuan Vinh <phamxuanvinhdv@gmail.com>"
+  ],
+  "description": "the first bower application",
+  "main": "/",
+  "keywords": [
+    "vuighe"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
